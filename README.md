@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<h2>I’m parsajavidi</h2>
+<h2>I’m parsa javidi</h2>
 <h2>I’m currently learning javascript 💙</h2>
 <h2>I would like to learning django ✌️</h2>
 
